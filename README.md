@@ -38,7 +38,9 @@ StudentManagementSystem
 1. Compile all Java files:
 
 ```bash
-javac *.java
+javac Student.java
+javac StudentManager.java
+javac Main.java
 ```
 
 2. Run the application:
